@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+.claude/
+# generated at run time
+outputs_gemini video/
+outputs_sample video/
+outputs/
+data/*.mp4
+data/*.mkv

@@ -1,0 +1,19 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+yt-dlp==2026.8.19
+
+opencv-python==5.0.0.93
+numpy==2.5.3
+scipy==1.18.1
+scenedetect==0.7.1
+
+torch==2.14.0+cpu
+transformers==5.17.0
+sentence-transformers==6.0.1
+openai-whisper==20250625
+
+openai==3.13.0
+google-genai==2.23.0
+
+insightface==2.0
+onnxruntime==1.30.0
